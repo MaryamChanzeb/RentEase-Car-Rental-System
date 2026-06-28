@@ -1,0 +1,34 @@
+CAR123*Tesla Model S*Tesla*Red*5*50000
+CAR124*BMW 3 Series*BMW*Blue*3*40000
+CAR125*Audi A6*Audi*Black*2*45000
+CAR126*Mercedes Benz C-Class*Mercedes*White*4*55000
+CAR127*Hyundai Elantra*Hyundai*Silver*3*3000
+CAR128*Toyota Corolla*Toyota*White*4*4000
+CAR129*Honda Civic*Honda*Black*5*3500
+CAR130*Kia Sportage*Kia*Blue*4*4000
+CAR131*Nissan Altima*Nissan*Gray*4*3600
+CAR132*Suzuki Cultus*Suzuki*White*4*2500
+CAR133*Suzuki Alto*Suzuki*Silver*4*2000
+CAR134*Toyota Yaris*Toyota*Black*4*3500
+CAR135*Honda City*Honda*Gray*5*3700
+CAR136*Honda BR-V*Honda*White*7*4500
+CAR137*Toyota Fortuner*Toyota*Black*7*8500
+CAR138*Kia Picanto*Kia*Red*4*3000
+CAR139*Hyundai Tucson*Hyundai*Blue*5*6000
+CAR140*Toyota Corolla Grande*Toyota*White*5*4200
+CAR141*Hyundai Sonata*Hyundai*Black*4*7000
+CAR142*Toyota Fortuner*Toyota*Black*7*8500
+CAR143*Toyota Land Cruiser V8*Toyota*White*7*12000
+CAR144*Toyota Prado TX*Toyota*Silver*7*11000
+CAR145*Toyata Hilux Revo*Toyata*Black*4*10000
+CAR146*Toyota Hilux Vigo*Toyota*Black*5*9000
+CAR147*Toyota Coaster*Toyota*White*29*15000
+CAR150*Toyota Yaris*Toyota*Black*4*3500
+CAR151*Honda City*Honda*White*2*4000
+CAR152*Kia Sportage*Kia*Blue*2*60000
+CAR153*Hyundai Tucson*Hyundai*White*4*6000
+CAR154*Honda City*Honda*White*1*4000
+CAR148*Honda Civic*Honda*White*7*45000
+Car149*Honda Civic RS*Honda*Black*3*4500
+
+*Honda Civic RS*Honda*Black*4*4500

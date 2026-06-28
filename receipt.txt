@@ -1,0 +1,8 @@
+
+=========== RENTAL RECEIPT ===========
+Customer ID: 044
+Car ID: CAR148
+Rental Duration: 5 day(s)
+Total Cost: Rs.225000
+Date: 2026-6-27
+======================================
