@@ -170,7 +170,7 @@ This project helped in understanding:
 # 👩‍💻 Developed By
 
 **Maryam Chanzeb**
-**Zahra Latif**
+
 
 BS Software Engineering
 
